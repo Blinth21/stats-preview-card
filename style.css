@@ -52,7 +52,7 @@ body{
     flex-direction: column;
     justify-content: space-between;
     gap: 35px;
-    padding: 70px 100px 70px 60px;
+    padding: 70px 100px 70px 80px;
 }
 
 .container .textcont .totals{
